@@ -130,3 +130,4 @@ dmypy.json
 
 # Data folders
 data/
+catboost_info/
